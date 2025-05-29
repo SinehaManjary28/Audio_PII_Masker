@@ -7,6 +7,6 @@ presidio-analyzer
 presidio-anonymizer
 geotext
 transformers
-sentencepiece
 audio-recorder-streamlit
 streamlit-webrtc
+sentencepiece @ https://github.com/google/sentencepiece/releases/download/v0.1.99/sentencepiece-0.1.99-cp310-cp310-win_amd64.whl
