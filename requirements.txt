@@ -1,0 +1,12 @@
+streamlit
+openai-whisper
+spacy
+ffmpeg-python
+numpy
+presidio-analyzer 
+presidio-anonymizer
+geotext
+transformers
+sentencepiece
+audio-recorder-streamlit
+streamlit-webrtc
